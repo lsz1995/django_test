@@ -1,0 +1,35 @@
+#main{
+    width: 1200px;
+    height: 600px;
+    margin: 150px auto;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+
+#verticalNav{
+    margin-left: -14px;
+    background-color: #ffffff;
+}
+
+
+.footerTool{
+    height: 40px;
+    width: 100%;
+    background-color: #363636;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+.footerDetail{
+    height: 100px;
+    width: 100%;
+    background-color: #454647;
+    color: #fff;
+}
+.detailCont{
+    width: 1185px;
+    margin: 0 auto;
+    overflow: hidden;
+    min-height: 170px;
+}
